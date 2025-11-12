@@ -72,6 +72,7 @@ $host = "localhost";
 $user = "root";
 $password = "";
 $database = "travelplanificator";
+```
 
 ---
 
@@ -79,6 +80,5 @@ $database = "travelplanificator";
 
 1. Abre tu navegador.
 2. Accede a:
-    http://localhost/gestor_viajes
+   http://localhost/gestor_viajes
 3. Comprueba que todo funciona correctamente: crear viajes, visualizar reservas, etc.
-```
