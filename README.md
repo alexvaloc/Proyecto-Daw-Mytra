@@ -73,6 +73,8 @@ $user = "root";
 $password = "";
 $database = "travelplanificator";
 
+---
+
 ### 5️⃣ Ejecutar la aplicación
 
 1. Abre tu navegador.
